@@ -131,7 +131,7 @@
 
 
 
-/* responsive */
+/* responsive for mobile */
 @media screen and (max-width: 576px) {
     .Latest-Deal-content h1{
     font-size: 2rem;
