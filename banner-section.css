@@ -1,0 +1,39 @@
+body{
+    background-color: #f5f8ff;
+}
+
+.banner-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px 10px;
+    margin-top: 120px;
+}
+.banner-left h1{
+    font-size: 4rem;
+    font-family: "Noto Serif", serif;
+    margin-bottom: 10px;
+}
+.banner-left span{
+    color: orangered;
+    
+}
+.banner-left p{
+    font-size: 1.3rem;
+    font-family: "Inter", sans-serif;
+}
+
+/* responsive */
+@media screen and (max-width: 576px) {
+    .banner-content{
+        flex-direction: column-reverse;
+        margin-top: 50px;
+        gap:20px;
+    }
+    .banner-left h1{
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+}
+
