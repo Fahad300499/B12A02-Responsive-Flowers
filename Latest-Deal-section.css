@@ -37,7 +37,7 @@
 }
 
 .cards-left-1 h2{
-    font-size: 2rem;
+    font-size: 1.5rem;
     margin: 0;
     padding: 0;
     text-align: center;
@@ -48,14 +48,13 @@
     color: white;
     font-family: "Inter", sans-serif;
 }
-
 .cards-left-2 h2{
     margin: 0;
     padding: 0;
 }
 
 .cards-left-2 h2{
-    font-size: 2rem;
+    font-size: 1.5rem;
     margin: 0;
     padding: 0;
     text-align: center;
@@ -114,14 +113,14 @@
     height: 420px;
 }
 .cards-right h2{
-    font-size: 2.5rem;
+    font-size: 2rem;
     margin: 0;
     padding: 0;
     text-align: center;
-    line-height: 50px;
+    line-height: 40px;
 }
 .cards-right a{
-    font-size: 2rem;
+    font-size: 1.5rem;
     color: white;
     font-family: "Inter", sans-serif;
 }

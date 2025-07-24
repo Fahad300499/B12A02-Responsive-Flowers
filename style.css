@@ -33,7 +33,7 @@
 .nav-bar{
     justify-content: space-between;
     align-items: center;
-    margin: 10px 10px;
+    margin: 30px 10px;
 }
 .nav-menu{
     
@@ -43,6 +43,7 @@
 }
 .nav-items a{
     text-decoration: none;
+    font-family: "Inter", sans-serif;
 }
 
 .nav-items li{
@@ -50,6 +51,9 @@
 }
 .nav-icon{
         gap:5px
+}
+.nav-icon p{
+    font-family: "Inter", sans-serif;;
 }
 
 
