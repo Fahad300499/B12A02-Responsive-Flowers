@@ -41,6 +41,26 @@
 }
 
 
+.plants-lover-left .trust{
+    
+    animation: spin 10s linear infinite;
+}
+
+@keyframes spin {
+    to{
+        transform: rotate(0deg);
+    }
+    from{
+        transform: rotate(360deg);
+    }
+}
+
+
+
+
+
+
+
 /* responsive */
 @media screen and (max-width: 576px) {
   .plants-lover-left .trust{
