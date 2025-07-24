@@ -144,6 +144,8 @@
 }
 .latest-deal-cards{
     flex-direction: column;
+    margin: 0px 20px;
+    margin-bottom: 50px;
 }
 .cards-left{
     width: 100%;
